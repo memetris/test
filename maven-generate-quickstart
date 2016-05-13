@@ -1,0 +1,3 @@
+mvn archetype:generate -DgroupId=com.training -DartifactId=SpringApp -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.mpn.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
